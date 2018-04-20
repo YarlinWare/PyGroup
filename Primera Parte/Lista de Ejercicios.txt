@@ -1,51 +1,49 @@
-Ejercicios PyGroup 2018:
+*******************************************************************
+Ejercicios PyGroup 2018-I:
+*******************************************************************
 
-1. M·ndale un saludo al mundo. Escribe un programa que reciba un nombre e imprima un hola mundo, pero que tambiÈn contenga el mensaje: ìsoy nombre, øCÛmo est·s?î.
+1. M√°ndale un saludo al mundo. Escribe un programa que reciba un nombre e imprima un hola mundo, pero que tambi√©n contenga el mensaje: ‚Äúsoy nombre, ¬øC√≥mo est√°s?‚Äù.
 
-2. Escribe un programa que reciba dos n˙meros y los sume, los reste, los multiplique, realice una divisiÛn entera y una divisiÛn con resultado decimal sobre ellos, adem·s de mostrar el residuo de la divisiÛn.
+2. Escribe un programa que reciba dos n√∫meros y los sume, los reste, los multiplique, realice una divisi√≥n entera y una divisi√≥n con resultado decimal sobre ellos, adem√°s de mostrar el residuo de la divisi√≥n.
 
-3. Escribe un programa que reciba un lado de un cuadrado y muestre su ·rea, su perÌmetro y su diagonal. Piensa: øY si tuviÈramos que hacer lo mismo con un rect·ngulo?, modifica el programa anterior para que pueda aceptar tambiÈn dicha figura.
+3. Escribe un programa que reciba un lado de un cuadrado y muestre su √°rea, su per√≠metro y su diagonal. Piensa: ¬øY si tuvi√©ramos que hacer lo mismo con un rect√°ngulo?, modifica el programa anterior para que pueda aceptar tambi√©n dicha figura.
 
-4. Existe un dilema de proposiciones!. Escribe un programa que reciba dos datos de tipo booleano, y realiza sobre ellos las operaciones lÛgicas AND, OR, NOT.
+4. Existe un dilema de proposiciones!. Escribe un programa que reciba dos datos de tipo booleano, y realiza sobre ellos las operaciones l√≥gicas AND, OR, NOT.
 
-5. Escribe un programa que determine si un n˙mero es par o impar.
-6. Escribe un programa que reciba un n˙mero y mencione si es mayor a 50, menor o 
-si es 50.
+5. Escribe un programa que determine si un n√∫mero es par o impar.
 
-7. Escribe un programa que reciba dos n˙meros y establezca si el segundo es mayor, menor o igual al cubo del primero.
+6. Escribe un programa que reciba un n√∫mero y mencione si es mayor a 50, menor o si es 50.
 
-8. Escribe un programa que imprima los n˙meros del 1 al 100.
+7. Escribe un programa que reciba dos n√∫meros y establezca si el segundo es mayor, menor o igual al cubo del primero.
 
-9. Escribe un programa que imprima los n˙meros impares del 1 al 30.
+8. Escribe un programa que imprima los n√∫meros del 1 al 100.
 
-10. Escribe un programa que imprima los n˙meros m˙ltiplos de 10 del 1 al 200.
+9. Escribe un programa que imprima los n√∫meros impares del 1 al 30.
 
-11. Escribe un programa que reciba dos n˙meros para crear un rango y multiplique los 
-n˙meros dentro del rango, sin incluir el n˙mero final de Èste. Ejemplo: Inicio = 2, 
-Final 5. Resultado = 2*3*4 = 24.
+10. Escribe un programa que imprima los n√∫meros m√∫ltiplos de 10 del 1 al 200.
 
-12. Escribe un programa que reciba un n˙mero e imprima un cuadrado de arrobas de tamaÒo seg˙n el n˙mero ingresado. (Se debe imprimir el borde y el relleno).
+11. Escribe un programa que reciba dos n√∫meros para crear un rango y multiplique los n√∫meros dentro del rango, sin incluir el n√∫mero final de √©ste. Ejemplo: Inicio = 2, Final 5. Resultado = 2*3*4 = 24.
 
-13. Escribe un programa que reciba un n˙mero e imprima un cuadrado de arrobas de 
-tamaÒo seg˙n el n˙mero ingresado. (Solo se debe imprimir el exterior, el borde).
+12. Escribe un programa que reciba un n√∫mero e imprima un cuadrado de arrobas de tama√±o seg√∫n el n√∫mero ingresado. (Se debe imprimir el borde y el relleno).
 
-14. Escribe un programa que reciba un n˙mero e imprima las tablas de multiplicar hasta dicho n˙mero en forma de cuadrÌcula. Por ejemplo: N˙mero ingresado: 3
+13. Escribe un programa que reciba un n√∫mero e imprima un cuadrado de arrobas de tama√±o seg√∫n el n√∫mero ingresado. (Solo se debe imprimir el exterior, el borde).
 
-15. Escribe un programa que reciba n˙meros enteros hasta que le llegue un n˙mero 
-negativo, despuÈs de lo cual termine el proceso.
+14. Escribe un programa que reciba un n√∫mero e imprima las tablas de multiplicar hasta dicho n√∫mero en forma de cuadr√≠cula. Por ejemplo: N√∫mero ingresado: 3
+
+15. Escribe un programa que reciba n√∫meros enteros hasta que le llegue un n√∫mero negativo, despu√©s de lo cual termine el proceso.
 1 2 3
 2 4 6
 3 6 9
 
-16. Escribe un programa que reciba una cadena, y cuente el n˙mero de vocales y consonantes que se encuentran en ella.
+16. Escribe un programa que reciba una cadena, y cuente el n√∫mero de vocales y consonantes que se encuentran en ella.
 
-17. Escribe un programa que reciba un conjunto de cadenas e imprima cu·l es la de mayor longitud y en quÈ posiciÛn se encuentra.
+17. Escribe un programa que reciba un conjunto de cadenas e imprima cu√°l es la de mayor longitud y en qu√© posici√≥n se encuentra.
 
-18. Por medio del uso de listas, realizar un programa que reciba un conjunto de n˙meros separados por comas y sumen los n˙meros positivos y los negativos aparte.
+18. Por medio del uso de listas, realizar un programa que reciba un conjunto de n√∫meros separados por comas y sumen los n√∫meros positivos y los negativos aparte.
 
-19. Realizar un programa que reciba un conjunto de 5 n˙meros separados por comas e imprima una lista con los n˙meros elevados al cuadrado.
+19. Realizar un programa que reciba un conjunto de 5 n√∫meros separados por comas e imprima una lista con los n√∫meros elevados al cuadrado.
 
-20.Escribe un programa que reciba un conjunto de n˙meros separados por comas y determine en que posiciÛn se encuentra el mayor, el menor y el que se acerque al promedio.
+20.Escribe un programa que reciba un conjunto de n√∫meros separados por comas y determine en que posici√≥n se encuentra el mayor, el menor y el que se acerque al promedio.
 
-21. Escribe un programa que reciba un conjunto de n˙meros e imprima cual es la suma de aquellos que se encuentran en posiciones pares.
+21. Escribe un programa que reciba un conjunto de n√∫meros e imprima cual es la suma de aquellos que se encuentran en posiciones pares.
 
