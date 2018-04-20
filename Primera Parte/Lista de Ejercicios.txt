@@ -1,6 +1,6 @@
-*******************************************************************
+
 Ejercicios PyGroup 2018-I:
-*******************************************************************
+
 
 1. Mándale un saludo al mundo. Escribe un programa que reciba un nombre e imprima un hola mundo, pero que también contenga el mensaje: “soy nombre, ¿Cómo estás?”.
 
