@@ -1,11 +1,11 @@
 # PyGroup
-*******************************************************************
+*************************************************  ******************
 * Ejercicios PyGroup Ver. 1.0
 * Año 2018
 * Codificado por Cristian Yara *
 * Universidad Distrital Francisco José de Caldas *
 * cmyarap@correo.udistrital.edu.co *
-*******************************************************************
+*************************************************  ******************
 
 ¿Qué es esto?
 -------------
@@ -18,17 +18,23 @@ Son Programas muy simple, pero muy interesantes, permitiendo desarrollar la lóg
 
 ¿Comentarios o Peticiones?
 ------------------------
+
 cmyarap@correo.udistrital.edu.co
+
 ------------------------
 
 Nota:
 --------
+
 *Los archivos contenidos en la carpeta irán actualizándose según sea el caso.
 *Su función es netamente educativo.
+
 -------
 
 
 Actualizaciones:
 --------
+
 https://github.com/YarlinWare/PyGroup/
+
 -------
