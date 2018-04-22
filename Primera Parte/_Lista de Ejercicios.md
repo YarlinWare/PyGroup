@@ -47,3 +47,12 @@ Ejercicios PyGroup 2018-I:
 
 21. Escribe un programa que reciba un conjunto de números e imprima cual es la suma de aquellos que se encuentran en posiciones pares.
 
+
+*Capítulo Estudiantil de la Association for Computing Machinery Universidad Distrital Francisco José de Caldas*
+---------
+***************
+
+##ACM / ###Association for Computing Machinery: ####*Advancing Computing as a Science & Profession*
+---------
+***************
+
