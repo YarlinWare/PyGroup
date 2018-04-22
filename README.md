@@ -2,9 +2,9 @@
 *************************************************  ******************
 * Ejercicios PyGroup Ver. 1.0
 * Año 2018
-* Codificado por Cristian Yara *
-* Universidad Distrital Francisco José de Caldas *
-* cmyarap@correo.udistrital.edu.co *
+* Codificado por Cristian Yara 
+* Universidad Distrital Francisco José de Caldas 
+* cmyarap@correo.udistrital.edu.co 
 *************************************************  ******************
 
 ¿Qué es esto?
