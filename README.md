@@ -22,23 +22,6 @@ Son Programas muy simple, pero muy interesantes, permitiendo desarrollar la lóg
 + Python 2.7
 ------------------------
 
-## Archivos
-------------------------
-  +**1. Primera Parte**
-        + .Lista de Ejercicios.md
-            + 1.saludo_py2.py
-            + 2.Operaciones_py2.py
-            + 3.Area_Cuadrado_rectangulo_py2.py
-            + 4.Booleanos.py
-            + 5.Par_impar_py2.py
-            + 6.mayor_menor_50_py2.py
-            + 7.mayor_menor_50_py2.py
-    
- 
-+**2. Segunda Parte**
-
-------------------------
-
 ¿Comentarios o Peticiones?
 ------------------------
 
