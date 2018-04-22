@@ -31,9 +31,9 @@
 14. Escribe un programa que reciba un número e imprima las tablas de multiplicar hasta dicho número en forma de cuadrícula. Por __*ejemplo: Número ingresado: 3*__
 
 15. Escribe un programa que reciba números enteros hasta que le llegue un número negativo, después de lo cual termine el proceso.
-**_1 2 3
-**_2 4 6
-**_3 6 9
+**_1 2 3_**
+**_2 4 6_**
+**_3 6 9_**
 
 16. Escribe un programa que reciba una cadena, y cuente el número de vocales y consonantes que se encuentran en ella.
 
@@ -47,12 +47,16 @@
 
 21. Escribe un programa que reciba un conjunto de números e imprima cual es la suma de aquellos que se encuentran en posiciones pares.
 
+---------
 
 #### *Capítulo Estudiantil de la Association for Computing Machinery Universidad Distrital Francisco José de Caldas* ####
----------
-***************
 
-#### ACM / #### ##### Association for Computing Machinery: ##### ###### *Advancing Computing as a Science & Profession* ######
 ---------
-***************
+
+#### ACM / #### 
+##### Association for Computing Machinery: ##### 
+###### *Advancing Computing as a Science & Profession* ######
+
+---------
+
 
