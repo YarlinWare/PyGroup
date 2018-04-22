@@ -1,5 +1,5 @@
 *******************************************
-#Ejercicios PyGroup 2018-I:
+# Ejercicios PyGroup 2018-I: #
 *******************************************
 
 1. Mándale un saludo al mundo. Escribe un programa que reciba un nombre e imprima un hola mundo, pero que también contenga el mensaje: **_“soy nombre, ¿Cómo estás?”._**
@@ -48,11 +48,11 @@
 21. Escribe un programa que reciba un conjunto de números e imprima cual es la suma de aquellos que se encuentran en posiciones pares.
 
 
-####*Capítulo Estudiantil de la Association for Computing Machinery Universidad Distrital Francisco José de Caldas*####
+#### *Capítulo Estudiantil de la Association for Computing Machinery Universidad Distrital Francisco José de Caldas* ####
 ---------
 ***************
 
-####ACM /#### #####Association for Computing Machinery:##### ######*Advancing Computing as a Science & Profession*######
+#### ACM / #### ##### Association for Computing Machinery: ##### ###### *Advancing Computing as a Science & Profession* ######
 ---------
 ***************
 
