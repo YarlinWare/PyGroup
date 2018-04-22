@@ -24,15 +24,15 @@ Son Programas muy simple, pero muy interesantes, permitiendo desarrollar la lóg
 ## Archivos
 ------------------------
 **1. Primera Parte**
-  + .Lista de Ejercicios.md
-  + 1.saludo_py2.py
+    + .Lista de Ejercicios.md
+    + 1.saludo_py2.py
     + 2.Operaciones_py2.py
     + 3.Area_Cuadrado_rectangulo_py2.py
-  + 4.Booleanos.py
-  + 5.Par_impar_py2.py
+    + 4.Booleanos.py
+    + 5.Par_impar_py2.py
     + 6.mayor_menor_50_py2.py
-         + 7.mayor_menor_50_py2.py
-           + 8.numero_1_al_100_py2.py
+    + 7.mayor_menor_50_py2.py
+    + 8.numero_1_al_100_py2.py
     + 9.numero_impares_hata_15_py2.py
     + 10.multiplo_10_hasta_200_py2.py
     + 11.rango_y_multilicacion_py2.py
