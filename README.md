@@ -24,7 +24,7 @@ Son Programas muy simple, pero muy interesantes, permitiendo desarrollar la lóg
 
 ## Archivos
 ------------------------
-    +**1. Primera Parte**
+  +**1. Primera Parte**
         + .Lista de Ejercicios.md
             + 1.saludo_py2.py
             + 2.Operaciones_py2.py
