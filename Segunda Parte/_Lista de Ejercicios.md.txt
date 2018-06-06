@@ -1,0 +1,39 @@
+*******************************************
+
+# Ejercicios PyGroup 2018-I: #
+
+*******************************************
+
+1. Crear un programa que solicite al usuario ingresar un número para obtener un día de la semana. Si el número está entre 1 y 7 debe devolver el correspondiente día (Ej: 1, “Lunes”). Si el número está fuera del rango, debe mostrar un mensaje que diga “número incorrecto”. (Hacerlo con una tupla y con una lista).
+2. Crear un programa que, dada una lista de números complejos, halle la magnitud de cada uno y lo guarde en una nueva lista. (Usar listas por comprensión sabiendo que abs() halla la magnitud de un solo número).
+3. Escribir un script que, dada una lista de números complejos, guarde en una segunda lista el doble de la parte real, y en una tercer lista el triple de la parte imaginaria de cada número. (Usar listas por comprensión).
+4. Escribir un script que, dada una tupla de vocales, solicite al usuario ingresar un carácter y, realizando una comparación con cada elemento de la tupla establezca si el carácter insertado es una vocal o no.
+5. Escribir un script que, dada una lista de números complejos, genere un diccionario cuya clave sea la parte real y cuyo valor sea la parte imaginaria de cada número.
+6. Hacer un programa que dados dos conjuntos, realice la unión, la intersección, la diferencia, la diferencia simétrica y guarde los resultados en una lista.
+7. Generar un script que, dada una tupla de tuplas de 2 enteros, genere números complejos con las tuplas de la tupla.
+9. Escribir un script que imprima los números del 1 al 10 pero de tipo cadena. Para poder verificar que el tipo no sea entero, el programa debe también imprimir el tipo de dato implicado.
+10. Hacer un programa que imprima los números del 1 al 20 usando específicamente una estructura while-break.
+11. Hacer un programa que imprima los números del 1 al 20 usando específicamente una estructura For.
+12. Escribir un script que imprima los números pares de 1 a 25 usando una lista por comprensión.
+
+13. Escribir un script que imprima los números múltiplos de 5 del 1 al 100 usando conjuntos por comprensión.
+14. Escribir un script que haga la suma de los primeros 10 números enteros usando un ciclo for, un ciclo while, una lista por comprensión, una tupla por comprensión y un conjunto por comprensión. (Nota: El resultado de la lista, el conjunto y la tupla por comprensión debe ser similar a [0, 1, 3,6, 10, 15, …, 45]).
+15. Hacer un programa que pregunte al usuario si desea continuar en el programa, en caso afirmativo que le siga haciendo la pregunta hasta que se de el caso negativo, en el cual deba salir del programa.
+16. Escribir un script que solicite al usuario un número, y que imprima la sumatoria de los números del 1 hasta el número ingresado.
+17. Diseñar un programa que pregunte al usuario si desea continuar, en caso afirmativo imprima los números del 1 al 10 y vuelva a hacer la pregunta, en caso afirmativo de nuevo imprima los números del 11 al 20 y vuelva a hacer la pregunta, y así sucesivamente hasta una respuesta negativa.
+18. Configurar un script que sume los números pares del 1 al 100 y saque un promedio. De igual forma, con los impares.
+19. Escribir un programa que muestre la suma de los cuadrados de los números del 1 al 100.
+20. Escribir un programa que, dada una tupla de números del -5 al 5, genere una tupla en la cual en la primer posición esté la suma de los números positivos, y en la segunda posición esté la suma de los números negativos.
+21. Redactar un script el cual genere un conjunto usando conjuntos por comprensión con los números del 1 al 21 que sean impares y que sean divisible por 3.
+22. Diseñar un script que solicite al usuario 5 nombres y los guarde en una tupla, una lista, y un conjunto.
+23. Escribir un programa que dado un diccionario de 5 nombres cuyas claves son los números del 1 al 5 establezca cuál es el nombre de mayor longitud y diga cuál es su clave.
+
+---------
+
+
+#### *Capítulo Estudiantil de la Association for Computing Machinery Universidad Distrital Francisco José de Caldas* ####
+
+##### ACM / Association for Computing Machinery: *Advancing Computing as a Science & Profession* #####
+
+
+---------
