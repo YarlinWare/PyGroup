@@ -1,6 +1,6 @@
 # PyGroup
 *************************************************  ******************
-* Ejercicios PyGroup Ver. 1.0
+* Ejercicios PyGroup Ver. 2.0
 * Año 2018
 * Codificado por Cristian Yara 
 * Universidad Distrital Francisco José de Caldas 
